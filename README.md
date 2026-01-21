@@ -20,5 +20,5 @@ A small collection of compact implementations and notes for machine-learning res
   - [x] Scaled Dot Product Attention   
 
 - [ ] Reinforcement Learning
-  - [] Deep Q Learning - **In Progress**
+  - [ ] Deep Q Learning - **In Progress**
 - [ ] UNET
