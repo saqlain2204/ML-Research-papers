@@ -12,6 +12,7 @@ A small collection of compact implementations and notes for machine-learning res
   - [x] SiLU/Swish 
   - [x] Sigmoid
   - [x] TanH 
+  - [x] Swish
 - [x] CBOW
 - [x] BERT
 - [x] Scaled Dot Product Attention
